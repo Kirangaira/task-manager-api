@@ -7,7 +7,7 @@ This is a full featured Task Management REST API back-end built with Node.js and
   <li> Restricted user access to CRUD operations using middleware based on JWT tokens. </li>
 </ul>
 
-<h1>What I Used: </h1>
+## What I Used:
 <ul>
 <li> Express(for Restful API and managing routers). </li>
 <li> Mongoose(NoSql database). </li>
@@ -20,9 +20,7 @@ This is a full featured Task Management REST API back-end built with Node.js and
 <li>heroku (deployment). </li>
 </ul>
 
-<h1> API Endpoints </h1>
-
-## API Endpoints
+## API Endpoints 
 
 | Methods | Endpoints                          | Access  | Description                              |
 | ------- | ---------------------------------- | ------- | ---------------------------------------- |
@@ -50,7 +48,7 @@ This is a full featured Task Management REST API back-end built with Node.js and
 
 [Task Manager API](https://gaira-task-manager.herokuapp.com/)
 
-## SETUP INSTRUCTIONS
+## Setup Instructions
 
 To use this code you will require an account with [SendGrid](https://signup.sendgrid.com/).  Sign-up is free and no credit card is required to access a free-tier API Key.
 
