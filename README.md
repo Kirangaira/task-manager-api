@@ -46,7 +46,7 @@ This is a full featured Task Management REST API back-end built with Node.js and
 
 ## Hosted Domain Link
 
-[Task Manager API](https://gaira-task-manager.herokuapp.com/)
+[Task Manager API](https://github.com/Divyanshpundhir/Task-manager-api)
 
 ## Setup Instructions
 
@@ -54,7 +54,7 @@ To use this code you will require an account with [SendGrid](https://signup.send
 
 Node.js version 12+ and npm must be installed on your machine.  In terminal type the following commands:
 ```
-git clone https://github.com/Kirangaira/task-manager-api
+git clone https://github.com/Divyanshpundhir/Task-manager-api
 cd task-manger-api
 npm install
 mkdir config
